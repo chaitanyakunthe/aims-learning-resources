@@ -37,12 +37,12 @@
 - [Easily use open source LLMs - Ollama](https://ollama.ai/)
 
 ### Books
-- Artificial Intelligence - A Modern Approach
-- What to Expect When You're Expecting Robots
-- Bayesian Statistics The Fun Way
+- [Artificial Intelligence - A Modern Approach](https://www.amazon.in/dp/9356063575)
+- [What to Expect When You're Expecting Robots](https://www.amazon.in/dp/1541699114)
+- [Bayesian Statistics The Fun Way](https://www.amazon.in/dp/1593279566)
 
 ### Other Resources
-- Ethics of AI
-- Statistics - Basics Course
+- [Ethics of AI](https://plato.stanford.edu/entries/ethics-ai/)
+- [Statistics - Basics Course](https://open.umn.edu/opentextbooks/textbooks/459)
 - [Introduction to Statistics course - Coursera, Stanford](https://www.coursera.org/learn/stanford-statistics)
 
