@@ -46,3 +46,4 @@
 - [Statistics - Basics Course](https://open.umn.edu/opentextbooks/textbooks/459)
 - [Introduction to Statistics course - Coursera, Stanford](https://www.coursera.org/learn/stanford-statistics)
 
+This is by no means a complete list. Please feel free to suggest additional resources
