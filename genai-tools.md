@@ -20,3 +20,30 @@
 18. **ChatFlash** - [https://chatflash.io](https://chatflash.io)
 19. **ChatSonic** - [https://writesonic.com/chat](https://writesonic.com/chat)
 20. **StyleGAN** - [https://github.com/NVlabs/stylegan](https://github.com/NVlabs/stylegan)
+
+___
+
+## Additional GenAI tools
+
+# Additional Publicly Available GenAI Tools
+
+1. **Jasper** - [https://www.jasper.ai](https://www.jasper.ai)
+2. **Rytr** - [https://rytr.me](https://rytr.me)
+3. **Writesonic** - [https://writesonic.com](https://writesonic.com)
+4. **INK Editor** - [https://inkforall.com](https://inkforall.com)
+5. **Peppertype.ai** - [https://www.peppertype.ai](https://www.peppertype.ai)
+6. **Frase** - [https://www.frase.io](https://www.frase.io)
+7. **Artbreeder** - [https://www.artbreeder.com](https://www.artbreeder.com)
+8. **DeepArt** - [https://deepart.io](https://deepart.io)
+9. **Runway ML** - [https://runwayml.com](https://runwayml.com)
+10. **Deep Dream Generator** - [https://deepdreamgenerator.com](https://deepdreamgenerator.com)
+11. **AIVA** - [https://www.aiva.ai](https://www.aiva.ai)
+12. **Boomy** - [https://boomy.com](https://boomy.com)
+13. **Amper Music** - [https://www.ampermusic.com](https://www.ampermusic.com)
+14. **Lumen5** - [https://www.lumen5.com](https://www.lumen5.com)
+15. **Pictory** - [https://pictory.ai](https://pictory.ai)
+16. **Synthesys** - [https://synthesys.io](https://synthesys.io)
+17. **Voice.ai** - [https://voice.ai](https://voice.ai)
+18. **Elai.io** - [https://elai.io](https://elai.io)
+19. **Colossyan** - [https://www.colossyan.com](https://www.colossyan.com)
+20. **DeepBrain** - [https://deepbrain.io](https://deepbrain.io)
