@@ -1,4 +1,4 @@
-# Top 20 Publicly Available GenAI Tools
+# Popular Publicly Available GenAI Tools
 
 1. **ChatGPT** - [https://chat.openai.com](https://chat.openai.com)
 2. **GPT-4** - [https://openai.com/research/gpt-4](https://openai.com/research/gpt-4)
@@ -24,8 +24,6 @@
 ___
 
 ## Additional GenAI tools
-
-# Additional Publicly Available GenAI Tools
 
 1. **Jasper** - [https://www.jasper.ai](https://www.jasper.ai)
 2. **Rytr** - [https://rytr.me](https://rytr.me)
