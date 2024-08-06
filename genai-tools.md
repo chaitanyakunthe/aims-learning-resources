@@ -45,3 +45,4 @@ ___
 18. **Elai.io** - [https://elai.io](https://elai.io)
 19. **Colossyan** - [https://www.colossyan.com](https://www.colossyan.com)
 20. **DeepBrain** - [https://deepbrain.io](https://deepbrain.io)
+21. **Character AI** - [https://character.ai](https://character.ai)
