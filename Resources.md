@@ -22,6 +22,7 @@
 - [US Executive Order on AI](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 - [UAE National Strategy for Artificial Intelligence 2031](https://ai.gov.ae/wp-content/uploads/2021/07/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf)
 - [Saudi Arabia National Strategy for Data and AI](https://ai.sa)
+- [UK National Cyber Security Centre Guidelines for secure AI system development](https://www.ncsc.gov.uk/files/Guidelines-for-secure-AI-system-development.pdf)
 
 
 ## Technical
