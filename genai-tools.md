@@ -20,6 +20,8 @@
 18. **ChatFlash** - [https://chatflash.io](https://chatflash.io)
 19. **ChatSonic** - [https://writesonic.com/chat](https://writesonic.com/chat)
 20. **StyleGAN** - [https://github.com/NVlabs/stylegan](https://github.com/NVlabs/stylegan)
+21. **Craiyon** - [https://www.craiyon.com](https://www.craiyon.com)
+22. 
 
 ___
 
