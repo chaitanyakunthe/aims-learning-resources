@@ -16,6 +16,7 @@
 - [ISO 24028:2020 - Overview of Trustworthiness in AI](https://www.iso.org/standard/77608.html)
 - [NIST AI 600-1  - AI RMF GenAI Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
 - [MIT - AI Risk Repository. A collection of over 700 AI risks](https://airisk.mit.edu)
+- [US DOE AI Risk Management Playbook](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
 
 ### Country based Legal & strategic frameworks
 - [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
