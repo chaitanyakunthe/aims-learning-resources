@@ -15,6 +15,9 @@
 - [ISO 24368:2022 - Overview of Ethical and Societal Concerns](https://www.iso.org/standard/78507.html)
 - [ISO 24028:2020 - Overview of Trustworthiness in AI](https://www.iso.org/standard/77608.html)
 - [NIST AI 600-1  - AI RMF GenAI Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
+
+### AI Risk Repositories
+
 - [MIT - AI Risk Repository. A collection of over 700 AI risks](https://airisk.mit.edu)
 - [US DOE AI Risk Management Playbook](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
 
