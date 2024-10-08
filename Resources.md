@@ -29,6 +29,10 @@
 - [Saudi Arabia National Strategy for Data and AI](https://ai.sa)
 - [UK National Cyber Security Centre Guidelines for secure AI system development](https://www.ncsc.gov.uk/files/Guidelines-for-secure-AI-system-development.pdf)
 
+### Miscellaneous Documents
+- [UN Report on 'Governing AI for Humanity'](https://www.un.org/sites/un2.un.org/files/governing_ai_for_humanity_final_report_en.pdf)
+
+
 
 ## Technical
 
