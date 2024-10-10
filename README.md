@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chaitanyakunthe)
+
 # Learning Resources for the Artificial Intelligence Management System (AIMS)
 This repository contains resources that are useful when learning about **ISO 42001:2023**. There are three key sections to this repo
 1. *Resources* - This is a file that lists all key resources. It is divided into two broad sections - Governance Resources and Technical Resources.
@@ -7,3 +9,4 @@ This repository contains resources that are useful when learning about **ISO 420
 **TL;DR**
 
 Start with ISO 42001:2023. Then read the list of risks on either MIT AI risk repository or the DOE AI risks page.
+
