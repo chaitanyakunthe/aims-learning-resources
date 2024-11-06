@@ -19,6 +19,12 @@
 - [NIST AI 600-1  - AI RMF GenAI Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
 - [MITRE - AI Incident Sharing Initiative](https://ai-incidents.mitre.org/)
 
+### OWASP Resources
+
+- [Guide for preparing and responding to Deepfake events](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/)
+- [Establishing a Center of Excellence for GenAI](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
+- [LLM and GenAI security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape/)
+
 ### AI Risk Repositories
 
 - [MIT - AI Risk Repository. A collection of over 700 AI risks](https://airisk.mit.edu)
