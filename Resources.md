@@ -65,6 +65,7 @@
 - [Artificial Intelligence - A Modern Approach](https://www.amazon.in/dp/9356063575)
 - [What to Expect When You're Expecting Robots](https://www.amazon.in/dp/1541699114)
 - [Bayesian Statistics The Fun Way](https://www.amazon.in/dp/1593279566)
+- [AI Snake Oil](https://a.co/d/aAV0HkD)
 
 ### Other Resources
 
