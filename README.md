@@ -8,6 +8,6 @@ This repository contains resources that are useful when learning about **ISO 420
 2. *Gen AI tools* - This is a file that lists down the popular GenAI tools avaialble. This is the file that tends to get outdated the fastest. Use this as a ready reckoner, but remember that new GenAI tools keep getting released everyday.
 3. *Definitions* - This is an experimental page where I am exploring providing some basic definitions for AI based tools
 
-**TL;DR**
+## TL;DR
 
 Start with ISO 42001:2023. Then read the list of risks on either MIT AI risk repository or the DOE AI risks page.
