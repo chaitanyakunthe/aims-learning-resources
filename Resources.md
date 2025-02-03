@@ -67,6 +67,7 @@
 - [What to Expect When You're Expecting Robots](https://www.amazon.in/dp/1541699114)
 - [Bayesian Statistics The Fun Way](https://www.amazon.in/dp/1593279566)
 - [AI Snake Oil](https://a.co/d/aAV0HkD)
+- [Building LLMs for Production](https://www.amazon.com/dp/B0D4FFPFW8)
 
 ### Other Resources
 
