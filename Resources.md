@@ -7,6 +7,7 @@
 - [ISO 42001:2023](https://www.iso.org/standard/81230.html)
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [OWASP AI security and privacy guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
+- [OWASP AI Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 ### Supporting Resources
 
