@@ -25,6 +25,7 @@
 - [Guide for preparing and responding to Deepfake events](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/)
 - [Establishing a Center of Excellence for GenAI](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
 - [LLM and GenAI security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape/)
+- [Agentic AI - Threats and Mitigations](https://genaisecurityproject.com/resource/agentic-ai-threats-and-mitigations/)
 
 ### AI Risk Repositories
 
