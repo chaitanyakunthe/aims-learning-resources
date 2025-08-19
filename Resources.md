@@ -19,7 +19,6 @@
 - [ISO 24368:2022 - Overview of Ethical and Societal Concerns](https://www.iso.org/standard/78507.html)
 - [ISO 24028:2020 - Overview of Trustworthiness in AI](https://www.iso.org/standard/77608.html)
 - [NIST AI 600-1  - AI RMF GenAI Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
-- [MITRE - AI Incident Sharing Initiative](https://ai-incidents.mitre.org/)
 - [NIST AI Adversarial Machine Learning Taxonomy & Terminology](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
 
 ### OWASP Resources
@@ -33,6 +32,11 @@
 
 - [MIT - AI Risk Repository. A collection of over 700 AI risks](https://airisk.mit.edu)
 - [US DOE AI Risk Management Playbook](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
+
+### AI Incident Repositories and Sharing initiatives
+- [AI Incident Database](https://incidentdatabase.ai)
+- [MITRE - AI Incident Sharing Initiative](https://ai-incidents.mitre.org/)
+
 
 ### Country based Legal & strategic frameworks
 
@@ -65,6 +69,11 @@
 - [Build LLM powered apps - LangChain](https://www.langchain.com/)
 - [Prompt Injection - CTF](https://github.com/motikan2010/AI-Prompt-Injection-CTF)
 - [Easily use open source LLMs - Ollama](https://ollama.ai/)
+
+### Responsible AI Toolkits
+
+-[Infosys Responsible AI Toolkit](https://github.com/Infosys/Infosys-Responsible-AI-Toolkit)
+-[Microsoft Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox)
 
 ### Books
 
