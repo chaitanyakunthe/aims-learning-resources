@@ -34,9 +34,9 @@
 - [US DOE AI Risk Management Playbook](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
 
 ### AI Incident Repositories and Sharing initiatives
+
 - [AI Incident Database](https://incidentdatabase.ai)
 - [MITRE - AI Incident Sharing Initiative](https://ai-incidents.mitre.org/)
-
 
 ### Country based Legal & strategic frameworks
 
