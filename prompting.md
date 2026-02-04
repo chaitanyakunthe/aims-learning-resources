@@ -2,7 +2,7 @@
 
 - [Google's Prompt Engineering Document](https://www.kaggle.com/whitepaper-prompt-engineering)
 - [Github Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
-- [Prompt Engineering Hub](https://promptengineeringhub.dev)
+- [Prompting Guide](https://www.promptingguide.ai)
 
 ## Video Resources
 

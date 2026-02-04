@@ -9,7 +9,7 @@
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [OWASP AI security and privacy guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
 - [OWASP AI Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-- [NIST Cybersecurity Framework Profile for Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf)
+- [NIST Cybersecurity Framework Profile for Artificial Intelligence (draft)](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf)
 
 ### Supporting Resources
 
