@@ -54,6 +54,7 @@
 
 - [UN Report on 'Governing AI for Humanity](https://www.un.org/sites/un2.un.org/files/governing_ai_for_humanity_final_report_en.pdf)
 - [AI and Cybersecurity: Balancing Risks and Rewards from the World Economic Forum](https://reports.weforum.org/docs/WEF_Artificial_Intelligence_and_Cybersecurity_Balancing_Risks_and_Rewards_2025.pdf)
+- [Whitepaper on AI Agent Reliability by Sayash Kapoor & Arvind Narayanan et. al.](https://arxiv.org/pdf/2602.16666)
 
 ## Technical
 
