@@ -21,6 +21,7 @@
 - [ISO 24028:2020 - Overview of Trustworthiness in AI](https://www.iso.org/standard/77608.html)
 - [NIST AI 600-1  - AI RMF GenAI Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
 - [NIST AI Adversarial Machine Learning Taxonomy & Terminology](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
+- [NIST AI 800-4 - Challenges to the Monitoring of Deployed AI systems](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-4.pdf)
 
 ### OWASP Resources
 
